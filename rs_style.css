@@ -1,0 +1,19 @@
+.rs-section{
+    background-color:#f2f3f7;
+    height: 80%;
+}
+.rs-container{
+    background-color: white;
+    height: 87%;
+    margin: 10% 10% 0% 10%;
+    border-radius:20px;
+}
+.rs-message{
+    margin: 20px;
+}
+.rs-img{
+    height: 100%;
+}
+#loading_image{
+    height: 86%;
+}
